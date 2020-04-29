@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 72.829 s <<< FAILURE! - in TestSuite
+loginPageTitleTest(com.allurereports.test.LoginPageTest)  Time elapsed: 2.771 s  <<< FAILURE!
+java.lang.AssertionError: expected [Free CRM #1 cloud software for any business large or small123] but found [Free CRM #1 cloud software for any business large or small]
+	at com.allurereports.test.LoginPageTest.loginPageTitleTest(LoginPageTest.java:56)
+

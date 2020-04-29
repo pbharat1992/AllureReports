@@ -1,0 +1,5 @@
+com\allurereports\HomePage.class
+com\allurelistener\TestAllureListener.class
+com\allurereports\SignUpPage.class
+com\allurereports\TestBase.class
+com\allurereports\LoginPage.class
